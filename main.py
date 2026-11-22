@@ -1,6 +1,6 @@
 def show_message():
 
-    print("Hello")
+    print("Hello from main")
 
 
 
